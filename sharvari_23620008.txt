@@ -1,0 +1,2 @@
+New Git Commands.Merge Conflict
+changed something 
