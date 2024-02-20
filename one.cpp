@@ -10,6 +10,6 @@ cout<<"Multiplication is : "<<a*b<<endl;
 cout<<"changes from main"<<endl;
 
 cout<<"changing something"<<endl;
-
+couut<<"newwwwwwwwwwwwww"<<endl;
 return 0;
 }
