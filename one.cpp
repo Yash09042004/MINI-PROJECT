@@ -5,7 +5,8 @@ int main(){
   int a,b;
 cin>>a>>b;
 cout<<"Multiplication is : "<<a*b<<endl;
-
+cout<<"New Change";
 
 return 0;
 }
+
